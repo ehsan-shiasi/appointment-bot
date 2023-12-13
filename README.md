@@ -14,7 +14,7 @@ Confirmation: Users receive a confirmation message before the appointment is sav
 Installation
 Clone the repository:
 
-git clone https://github.com/ehsan-shiasi/appointment_bot.git
+git clone https://github.com/ehsan-shiasi/appointment-bot.git
 Install the required dependencies:
 
 pip install -r requirements.txt
