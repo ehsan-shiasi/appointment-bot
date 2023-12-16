@@ -1,13 +1,18 @@
 # appointment-telegram-bot
+ربات تلگرام نوبت دهی توسط پایتون
 Appointment Telegram Bot by Python
 
 Appointment Bot using Telegram and Python
 This Telegram bot allows users to schedule appointments through a conversation flow. The bot is built using the Python programming language and utilizes the Telegram API for communication.
 
+این ربات تلگرام به کاربران اجازه می دهد تا از طریق گفتگو، نوبت های موجود را مشاهده کننده و نوبت مورد نظر را انتخاب کنند. این ربات با استفاده از زبان برنامه نویسی پایتون ساخته شده است و از API تلگرام برای ارتباط استفاده می کند.
+
 Features
 Appointment Scheduling: Users can schedule appointments by providing their first name, last name, and phone number.
+کاربران می توانند با ارائه نام، نام خانوادگی و شماره تلفن خود، زمان مورد نظر خود را انتخاب کنند.
 
 Availability Check: The bot checks for available appointment slots and informs the user if all slots are filled.
+ربات نوبت های موجود را بررسی می کند و به کاربر نوبت های موجود و آزاد را نمایش می دهد 
 
 Confirmation: Users receive a confirmation message before the appointment is saved.
 
