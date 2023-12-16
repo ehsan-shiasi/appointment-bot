@@ -9,9 +9,12 @@ This Telegram bot allows users to schedule appointments through a conversation f
 
 Features
 Appointment Scheduling: Users can schedule appointments by providing their first name, last name, and phone number.
+
 کاربران می توانند با ارائه نام، نام خانوادگی و شماره تلفن خود، زمان مورد نظر خود را انتخاب کنند.
 
+
 Availability Check: The bot checks for available appointment slots and informs the user if all slots are filled.
+
 ربات نوبت های موجود را بررسی می کند و به کاربر نوبت های موجود و آزاد را نمایش می دهد 
 
 Confirmation: Users receive a confirmation message before the appointment is saved.
