@@ -64,5 +64,3 @@ Commands
 Excel Integration
 The bot loads existing appointments from an Excel file (appointment_list.xlsx) and updates it after each successful appointment scheduling. Ensure the file exists and is in the correct format.
 
-License
-This project is licensed under the MIT License.
